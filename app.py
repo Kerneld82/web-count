@@ -12,7 +12,7 @@ images = [
     "cloud-04.png",
     "cloud-05.png",
     "docker_logo.png",
-	"fastcampus.png",
+    "fastcampus.png",
     "k8s_logo.png"
 ]
 
